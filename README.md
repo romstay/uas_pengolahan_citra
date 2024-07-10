@@ -1,5 +1,5 @@
 # Klusterisasi Gambar menggunakan KMeans
-#### AdamDwiMaulana 312210242 TI22B1
+#### Romiza Althafariq.K 312210182 TI22B1
 
 Kali ini kita akan klusterisasi sebuah foto atau gambar dengan algoritma KMeans.
 
@@ -71,15 +71,3 @@ Untuk melakukan clusterisasi membutuhkan waktu untuk prosesnya jadi untuk memunc
 Selesai untuk nilai K  anda bisa memasukan sesuai keinginan anda.
 
 Selamat mencoba, semoga bermanfaat
-
-#### Link Tugas UTS pengolahan Citra
-
-Github :
-[https://github.com/adamdwidev/uts-pengolahan-citra](https://github.com/adamdwidev/uts-pengolahan-citra)
-
-Hasil Streamlit :
-[https://adamwebdev.streamlit.app/tugas](https://adamwebdev.streamlit.app/tugas)
-
-
-
-
