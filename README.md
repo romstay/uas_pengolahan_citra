@@ -1,5 +1,7 @@
 # Klusterisasi Gambar menggunakan KMeans
-#### Romiza Althafariq.K 312210182 TI22B1
+#### Romiza Althafariq.K 
+#### 312210182 
+#### TI22B1
 
 Kali ini kita akan klusterisasi sebuah foto atau gambar dengan algoritma KMeans.
 
